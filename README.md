@@ -9,7 +9,7 @@ The goal for this project is to create a visualization tool that enables the USG
 Leaflet-Part 1 directory:
 - index.html file
 - Static folder: contains css and js code used to create the visual
-
+- Landing Page with mapping results: https://gabigail95.github.io/leaflet-challenge/
 
 # Tools
 The needed tools to complete this project were HTML, Javascript, CSS, and Leaflet
